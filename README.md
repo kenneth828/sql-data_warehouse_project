@@ -1,4 +1,4 @@
-# sales SQL Data Warehouse
+# Sales SQL Data Warehouse
 
 The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers: 
 
