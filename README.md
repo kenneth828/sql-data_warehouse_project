@@ -1,4 +1,4 @@
-# sql-data_warehouse_project
+# sales_sql_data_warehouse
 
 The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers: 
 
